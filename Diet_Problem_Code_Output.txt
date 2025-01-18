@@ -1,0 +1,42 @@
+Problem 1: Partial servings allowed
+status=Optimal
+----------------------------
+Bananas = 33.7604
+Cheerios = 69.2637
+Chicken_Breasts = 0.0
+Green_Peas = 84.1394
+String_Cheeses = 14.7266
+Total Cost = 104.731607
+
+
+
+
+
+
+Problem 2: Partial servings allowed and all foods must be eaten once
+status=Optimal
+----------------------------
+Bananas = 32.796
+Cheerios = 69.2642
+Chicken_Breasts = 1.0
+Green_Peas = 83.982
+String_Cheeses = 14.7168
+Total Cost = 106.28995
+Additional money spent = $1.56
+
+
+
+
+
+
+Problem 3: Servings must be whole number and all foods must be eaten once
+status=Optimal
+----------------------------
+Bananas = 34
+Cheerios = 69
+Chicken_Breasts = 1
+Green_Peas = 77
+String_Cheeses = 26
+Total Cost = 106.47
+Additional money spent compared to problem 1 = $1.74
+Additional money spent compared to problem 2 = $0.18

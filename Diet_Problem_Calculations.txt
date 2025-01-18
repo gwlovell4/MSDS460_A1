@@ -1,0 +1,26 @@
+MSDS 460 - Diet Problem Calculations
+
+Chicken Breast
+-Cost: $7.69
+-Servings: 4
+-Cost per Serving: $1.92
+
+Banana
+-Cost: $0.26
+-Servings: 1
+-Cost per Serving: $0.26
+
+Cheerios (Dry)
+-Cost: $2.79
+-Servings: 6
+-Cost per Serving: $0.47
+
+String Cheese
+-Cost: $4.99
+-Servings: 12
+-Cost per Serving: $0.42
+
+Green Peas
+-Cost: $2.39
+-Servings: 3.5
+-Cost per Serving: $0.68
