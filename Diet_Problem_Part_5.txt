@@ -1,0 +1,8 @@
+Part 5 - Large Language Model (LLM)
+------------------------------------
+
+For this portion I decided to use ChatGPT and it was very easy to prompt ChatGPT to create Python code for The Diet Problem. 
+The LLM actually offered up python code before I excplicitly asked for code.
+
+I have included a PDF of my conversation with ChatGPT in the repository.
+
